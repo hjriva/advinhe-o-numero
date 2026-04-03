@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\helen\\Desktop\\jogo\\jogo.csproj": {}
+    "C:\\Users\\helen\\Desktop\\projeto teste\\advinhe-o-numero\\advinheonumero csharp\\jogo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\helen\\Desktop\\jogo\\jogo.csproj": {
+    "C:\\Users\\helen\\Desktop\\projeto teste\\advinhe-o-numero\\advinheonumero csharp\\jogo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\helen\\Desktop\\jogo\\jogo.csproj",
+        "projectUniqueName": "C:\\Users\\helen\\Desktop\\projeto teste\\advinhe-o-numero\\advinheonumero csharp\\jogo.csproj",
         "projectName": "jogo",
-        "projectPath": "C:\\Users\\helen\\Desktop\\jogo\\jogo.csproj",
+        "projectPath": "C:\\Users\\helen\\Desktop\\projeto teste\\advinhe-o-numero\\advinheonumero csharp\\jogo.csproj",
         "packagesPath": "C:\\Users\\helen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\helen\\Desktop\\jogo\\obj\\",
+        "outputPath": "C:\\Users\\helen\\Desktop\\projeto teste\\advinhe-o-numero\\advinheonumero csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\helen\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,3 +12,18 @@ C:\Users\helen\Desktop\jogo\obj\Debug\net10.0\refint\jogo.dll
 C:\Users\helen\Desktop\jogo\obj\Debug\net10.0\jogo.pdb
 C:\Users\helen\Desktop\jogo\obj\Debug\net10.0\jogo.genruntimeconfig.cache
 C:\Users\helen\Desktop\jogo\obj\Debug\net10.0\ref\jogo.dll
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\bin\Debug\net10.0\jogo.exe
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\bin\Debug\net10.0\jogo.deps.json
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\bin\Debug\net10.0\jogo.runtimeconfig.json
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\bin\Debug\net10.0\jogo.dll
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\bin\Debug\net10.0\jogo.pdb
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.AssemblyInfoInputs.cache
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.AssemblyInfo.cs
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.csproj.CoreCompileInputs.cache
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.sourcelink.json
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.dll
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\refint\jogo.dll
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.pdb
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\jogo.genruntimeconfig.cache
+C:\Users\helen\Desktop\projeto teste\advinhe-o-numero\advinheonumero csharp\obj\Debug\net10.0\ref\jogo.dll
